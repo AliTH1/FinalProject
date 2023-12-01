@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vVAk0StdrxPF9ERdTJCgafsdmwHLgcwrGwEkID+qS2DhoGSygHUeFYVPJL28g6/wjFoE8GINUMRJg+wKsxFUfA==",
+  "dgSpecHash": "/NPf7A+GTi9tPZrQgS1uXM99n47S/WOFVTQ3Pz4myWRU3iR7PW4mVZ9eJc6eO/+fZnPzHmJB2H83x20TyRIL7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alita\\source\\repos\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alita\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\alita\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

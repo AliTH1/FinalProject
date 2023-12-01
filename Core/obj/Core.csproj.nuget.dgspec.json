@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alita\\source\\repos\\FinalProject\\Core\\Core.csproj": {}
+    "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\FinalProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alita\\source\\repos\\FinalProject\\Core\\Core.csproj": {
+    "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\FinalProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alita\\source\\repos\\FinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\FinalProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\alita\\source\\repos\\FinalProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\FinalProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\alita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alita\\source\\repos\\FinalProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\FinalProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
